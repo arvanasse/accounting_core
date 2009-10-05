@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  journal_entry: 
+  amount: 9.99
+  balance_type: MyString
+
+two:
+  journal_entry: 
+  amount: 9.99
+  balance_type: MyString

@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  invoice: 
+  name: MyString
+  posted_on: 2008-10-29
+  charge: 
+
+two:
+  invoice: 
+  name: MyString
+  posted_on: 2008-10-29
+  charge: 

@@ -1,0 +1,9 @@
+koinonia_sales:
+  general_ledger: koinonia
+  name: Koinonia Software Sales
+  journal_type: SalesJournal
+
+koinonia_cash_receipts:
+  general_ledger: koinonia
+  name: Koinonia Software Cash Receipts
+  journal_type: CashReceiptsJournal

@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  receipt: 
+  payment_instrument: 
+  amount: 9.99
+  reference_number: 1
+
+two:
+  receipt: 
+  payment_instrument: 
+  amount: 9.99
+  reference_number: 1

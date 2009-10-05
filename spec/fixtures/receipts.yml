@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  subledger_account: 
+  posted_on: 2008-10-29
+  payment_instrument: 
+  amount: 9.99
+  reference_number: 1
+
+two:
+  subledger_account: 
+  posted_on: 2008-10-29
+  payment_instrument: 
+  amount: 9.99
+  reference_number: 1

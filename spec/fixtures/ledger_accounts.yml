@@ -1,0 +1,35 @@
+koinonia_cash:
+  general_ledger: koinonia
+  opening_amount: 0.00
+  opening_balance_type: Debit
+  reconciled_amount: 0.00
+  reconciled_balance_type: Debit
+  reconciled_on: 2008-10-21
+  name: Cash
+  account_number: 1
+  ledger_type: Cash
+  uuid: a2644bec-a75d-11dd-aee3-0016cb90fd59
+
+koinonia_receivables:
+  general_ledger: koinonia
+  opening_amount: 0.00
+  opening_balance_type: Debit
+  reconciled_amount: 0.00
+  reconciled_balance_type: Debit
+  reconciled_on: 2008-10-21
+  name: Accounts Receivable
+  account_number: 2
+  ledger_type: Cash
+  uuid: ae8988b0-a75d-11dd-aee3-0016cb90fd59
+
+koinonia_sales:
+  general_ledger: koinonia
+  opening_amount: 0.00
+  opening_balance_type: Credit
+  reconciled_amount: 0.00
+  reconciled_balance_type: Credit
+  reconciled_on: 2008-10-21
+  name: Sales Revenue
+  account_number: 200
+  ledger_type: Revenue
+  uuid: ae8988b9-a75d-11dd-aee3-0016cb90fd59

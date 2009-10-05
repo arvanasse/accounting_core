@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  subledger_account: 
+  balance_type: MyString
+  amount: 9.99
+  recorded_on: 2008-10-06
+  posted_on: 2008-10-06
+  state: MyString
+
+two:
+  subledger_account: 
+  balance_type: MyString
+  amount: 9.99
+  recorded_on: 2008-10-06
+  posted_on: 2008-10-06
+  state: MyString

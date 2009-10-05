@@ -1,0 +1,19 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+vanasse_family:
+  ledger_account: koinonia_receivables
+  opening_balance_type: Debit
+  opening_amount: 0.00
+  reconciled_balance_type: Debit
+  reconciled_amount: 0.00
+  reconciled_on: 2008-10-06
+  uuid: 5db810d2-a75d-11dd-aee3-0016cb90fd59
+
+johnson_family:
+  ledger_account: koinonia_receivables
+  opening_balance_type: Debit
+  opening_amount: 0.00
+  reconciled_balance_type: Debit
+  reconciled_amount: 0.00
+  reconciled_on: 2008-10-06
+  uuid: 90f680b4-a75d-11dd-aee3-0016cb90fd59
